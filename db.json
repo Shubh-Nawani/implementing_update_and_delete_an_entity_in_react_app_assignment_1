@@ -1,0 +1,20 @@
+{
+  "doors": [
+    {
+      "id": "1",
+      "name": "Back Door",
+      "type": "Exterior",
+      "color": "Brown",
+      "material": "Wood",
+      "price": 299.99
+    },
+    {
+      "id": "2",
+      "name": "Patio Door",
+      "type": "Sliding",
+      "color": "White",
+      "material": "Vinyl",
+      "price": 499.99
+    }
+  ]
+}
